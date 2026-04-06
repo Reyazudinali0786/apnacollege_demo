@@ -1,4 +1,4 @@
 # apnacollege_demo
 This is my first git repository
 <br>
-Author: Reyazudin ali
+Author: Reyazudin ali(apna college)
